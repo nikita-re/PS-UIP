@@ -1,0 +1,15 @@
+# Core dependencies. The optional C backend falls back to the Numba Gibbs backend.
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+statsmodels>=0.14
+numba>=0.58
+matplotlib>=3.7
+joblib>=1.3
+
+# Optional: the "pymc" sampling backend, a cross-check of the fast Gibbs sampler.
+# Enable with PSUIPC_BACKEND=pymc. Not needed for the default pipeline.
+# pymc>=5
+# nutpie>=0.9
+# arviz>=0.16
