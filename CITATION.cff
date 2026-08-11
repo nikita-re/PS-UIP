@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite the PS-UIP manuscript and this repository."
-title: "PS-UIP: A Propensity-Score-Calibrated Unit Information Prior"
-type: software
-authors:
-  - name: "PS-UIP authors"
-version: 1.0.0
-date-released: 2026-08-11
-license: MIT
