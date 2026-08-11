@@ -172,10 +172,8 @@ Compiled libraries are platform-specific and are not tracked.
   depends on adequate covariate overlap.
 - Weighted binary-endpoint standard errors are approximate.
 - The simulations include negative-drift stress settings, including scenario S3.
-  PS-UIP reduces sensitivity to conflict but does not claim uniform type-I error
-  control under arbitrary outcome drift.
 
-## License and citation
 
-The code is released under the MIT License. Citation metadata are provided in
-`CITATION.cff`.
+## License 
+
+The code is released under the MIT License. 
